@@ -1,0 +1,54 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+
+
+.sssdd
+{
+    display: none !important;
+}
+@font-face 
+{
+    font-family: 'a';
+    src: url("AlimamaShuHeiTi-Bold.ttf");
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face 
+{
+    font-family: 'b';
+    src: url("本墨字语.ttf");
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+}
+#aside-content .card-info .author-info__description
+{
+    font-family: 'b';
+}
+article *
+{
+    font-family: 'b' !important;
+}
+*
+{
+    font-family: 'a';
+}
+
+
+/* font-family: '本墨津黑' !important; */
+/* font-family: 'a',"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; */
+/* @font-face 
+{
+    font-family: 'b';
+    src: url("本墨咏黑.ttf");
+    font-weight: normal;
+    font-style: normal;
+} */
+/* @font-face {
+	font-family: 'a';
+	src: url(//font.sec.miui.com/font/css?family=MiSans:400:Chinese_Simplify,Latin&display=swap) format('woff2');
+    font-display: swap;
+} */
+/* //s1.hdslb.com/bfs/static/jinkela/long/font/medium.css 
+//static.mastergo.com/static/font/OPPOSans/OPPOSans-Regular.woff2
+//fonts.bytedance.com/dfd/api/v1/css?family=DFPKingGothicGB-medium&display=swap */
