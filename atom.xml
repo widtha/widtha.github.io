@@ -6,7 +6,7 @@
   <link href="http://kuanre.github.io/atom.xml" rel="self"/>
   
   <link href="http://kuanre.github.io/"/>
-  <updated>2022-08-23T16:00:00.000Z</updated>
+  <updated>2022-09-29T16:00:00.000Z</updated>
   <id>http://kuanre.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Music / 寂静与空灵</title>
+    <link href="http://kuanre.github.io/202209301/"/>
+    <id>http://kuanre.github.io/202209301/</id>
+    <published>2022-09-29T16:00:00.000Z</published>
+    <updated>2022-09-29T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    <summary type="html">看看我在学校单曲循环什么歌</summary>
+    
+    
+    
+    <category term="Musics" scheme="http://kuanre.github.io/categories/Musics/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Clouds in August / 八月的云</title>
@@ -36,21 +55,21 @@
     <category term="Photos" scheme="http://kuanre.github.io/categories/Photos/"/>
     
     
-    <category term="tree" scheme="http://kuanre.github.io/tags/tree/"/>
+    <category term="云" scheme="http://kuanre.github.io/tags/%E4%BA%91/"/>
     
-    <category term="build" scheme="http://kuanre.github.io/tags/build/"/>
+    <category term="小路" scheme="http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/"/>
     
-    <category term="cloud" scheme="http://kuanre.github.io/tags/cloud/"/>
+    <category term="人" scheme="http://kuanre.github.io/tags/%E4%BA%BA/"/>
     
-    <category term="Autumn" scheme="http://kuanre.github.io/tags/Autumn/"/>
+    <category term="秋" scheme="http://kuanre.github.io/tags/%E7%A7%8B/"/>
     
-    <category term="people" scheme="http://kuanre.github.io/tags/people/"/>
+    <category term="树" scheme="http://kuanre.github.io/tags/%E6%A0%91/"/>
     
-    <category term="water" scheme="http://kuanre.github.io/tags/water/"/>
+    <category term="建筑" scheme="http://kuanre.github.io/tags/%E5%BB%BA%E7%AD%91/"/>
     
-    <category term="pathway" scheme="http://kuanre.github.io/tags/pathway/"/>
+    <category term="水" scheme="http://kuanre.github.io/tags/%E6%B0%B4/"/>
     
-    <category term="sun" scheme="http://kuanre.github.io/tags/sun/"/>
+    <category term="阳光" scheme="http://kuanre.github.io/tags/%E9%98%B3%E5%85%89/"/>
     
   </entry>
   
@@ -74,13 +93,13 @@
     <category term="Photos" scheme="http://kuanre.github.io/categories/Photos/"/>
     
     
-    <category term="cloud" scheme="http://kuanre.github.io/tags/cloud/"/>
+    <category term="田野" scheme="http://kuanre.github.io/tags/%E7%94%B0%E9%87%8E/"/>
     
-    <category term="people" scheme="http://kuanre.github.io/tags/people/"/>
+    <category term="云" scheme="http://kuanre.github.io/tags/%E4%BA%91/"/>
     
-    <category term="pathway" scheme="http://kuanre.github.io/tags/pathway/"/>
+    <category term="小路" scheme="http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/"/>
     
-    <category term="field" scheme="http://kuanre.github.io/tags/field/"/>
+    <category term="人" scheme="http://kuanre.github.io/tags/%E4%BA%BA/"/>
     
   </entry>
   
@@ -104,7 +123,7 @@
     <category term="Journeys" scheme="http://kuanre.github.io/categories/Journeys/"/>
     
     
-    <category term="event" scheme="http://kuanre.github.io/tags/event/"/>
+    <category term="实践活动" scheme="http://kuanre.github.io/tags/%E5%AE%9E%E8%B7%B5%E6%B4%BB%E5%8A%A8/"/>
     
   </entry>
   
@@ -128,9 +147,9 @@
     <category term="Photos" scheme="http://kuanre.github.io/categories/Photos/"/>
     
     
-    <category term="tree" scheme="http://kuanre.github.io/tags/tree/"/>
+    <category term="树" scheme="http://kuanre.github.io/tags/%E6%A0%91/"/>
     
-    <category term="build" scheme="http://kuanre.github.io/tags/build/"/>
+    <category term="建筑" scheme="http://kuanre.github.io/tags/%E5%BB%BA%E7%AD%91/"/>
     
   </entry>
   
@@ -154,7 +173,7 @@
     <category term="Photos" scheme="http://kuanre.github.io/categories/Photos/"/>
     
     
-    <category term="graduate" scheme="http://kuanre.github.io/tags/graduate/"/>
+    <category term="毕业" scheme="http://kuanre.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
     
   </entry>
   

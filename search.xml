@@ -1,45 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Clouds in August / 八月的云</title>
-    <url>/202208241/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
-<p><img src="https://v.bmp.ovh/imgs/2022/08/24/96dd60ee585fedcb.jpg" alt=""></p>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/24/90768e66d4082d6c.jpg" alt=""></p>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/24/5c1349cf92fa761c.jpg" alt=""></p>
+    <title>Graduation! 走过毕业门</title>
+    <url>/202206232/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=555570537&bvid=BV1tv4y1T7cn&cid=764175519&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<link rel="stylesheet" href="/css/photo.css">
 ]]></content>
       <categories>
         <category>Photos</category>
       </categories>
       <tags>
-        <tag>tree</tag>
-        <tag>build</tag>
-        <tag>cloud</tag>
-        <tag>Autumn</tag>
-        <tag>people</tag>
-        <tag>water</tag>
-        <tag>pathway</tag>
-        <tag>sun</tag>
+        <tag>毕业</tag>
       </tags>
   </entry>
   <entry>
-    <title>Fields and clouds / 田野与云</title>
-    <url>/202208161/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
-<style>:root{--ska: lightgreen;}</style>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/16/7366f92c45ab839e.jpg" alt=""></p>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/16/1fd87a6839e22e10.jpg" alt=""></p>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/16/c973f0a1b739c9be.jpg" alt=""></p>
+    <title>About Blog / 关于博客</title>
+    <url>/202202131/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>About Blog</h1>
+<p>On February 11, 2022, I initially set up my first blog in four hours. After two days of revision, I wrote my first article.</p>
+<h2 id="Thoughts-at-night-August-22-2022">Thoughts at night / August 22, 2022</h2>
+<blockquote>
+<p>This website should not be like this!</p>
+</blockquote>
+<p>I think that writing these is an unfocused and aimless behavior:</p>
+<ol>
+<li>Redundancy and no horizontal interface</li>
+<li>Content written solely for the purpose of writing articles</li>
+</ol>
+<p>So you will see these in the future:</p>
+<ol>
+<li>My travel notes</li>
+<li>My thoughts, comments, memories and other long articles</li>
+<li>More concise interface</li>
+</ol>
+<p><strong>I think the significance of this website is to record life, write what you want to express, listen to others’ suggestions, and improve your way of speaking</strong></p>
 ]]></content>
-      <categories>
-        <category>Photos</category>
-      </categories>
-      <tags>
-        <tag>cloud</tag>
-        <tag>people</tag>
-        <tag>pathway</tag>
-        <tag>field</tag>
-      </tags>
   </entry>
   <entry>
     <title>21 Days of Study / 21天研学记</title>
@@ -125,7 +120,56 @@
         <category>Journeys</category>
       </categories>
       <tags>
-        <tag>event</tag>
+        <tag>实践活动</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fields and clouds / 田野与云</title>
+    <url>/202208161/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
+<style>:root{--ska: lightgreen;}</style>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/16/7366f92c45ab839e.jpg" alt=""></p>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/16/1fd87a6839e22e10.jpg" alt=""></p>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/16/c973f0a1b739c9be.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>Photos</category>
+      </categories>
+      <tags>
+        <tag>田野</tag>
+        <tag>云</tag>
+        <tag>小路</tag>
+        <tag>人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Music / 寂静与空灵</title>
+    <url>/202209301/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      <categories>
+        <category>Musics</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Clouds in August / 八月的云</title>
+    <url>/202208241/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
+<p><img src="https://v.bmp.ovh/imgs/2022/08/24/96dd60ee585fedcb.jpg" alt=""></p>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/24/90768e66d4082d6c.jpg" alt=""></p>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/24/5c1349cf92fa761c.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>Photos</category>
+      </categories>
+      <tags>
+        <tag>云</tag>
+        <tag>小路</tag>
+        <tag>人</tag>
+        <tag>秋</tag>
+        <tag>树</tag>
+        <tag>建筑</tag>
+        <tag>水</tag>
+        <tag>阳光</tag>
       </tags>
   </entry>
   <entry>
@@ -139,44 +183,8 @@
         <category>Photos</category>
       </categories>
       <tags>
-        <tag>tree</tag>
-        <tag>build</tag>
+        <tag>树</tag>
+        <tag>建筑</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Graduation! 走过毕业门</title>
-    <url>/202206232/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=555570537&bvid=BV1tv4y1T7cn&cid=764175519&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-<link rel="stylesheet" href="/css/photo.css">
-]]></content>
-      <categories>
-        <category>Photos</category>
-      </categories>
-      <tags>
-        <tag>graduate</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>About Blog / 关于博客</title>
-    <url>/202202131/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>About Blog</h1>
-<p>On February 11, 2022, I initially set up my first blog in four hours. After two days of revision, I wrote my first article.</p>
-<h2 id="Thoughts-at-night-August-22-2022">Thoughts at night / August 22, 2022</h2>
-<blockquote>
-<p>This website should not be like this!</p>
-</blockquote>
-<p>I think that writing these is an unfocused and aimless behavior:</p>
-<ol>
-<li>Redundancy and no horizontal interface</li>
-<li>Content written solely for the purpose of writing articles</li>
-</ol>
-<p>So you will see these in the future:</p>
-<ol>
-<li>My travel notes</li>
-<li>My thoughts, comments, memories and other long articles</li>
-<li>More concise interface</li>
-</ol>
-<p><strong>I think the significance of this website is to record life, write what you want to express, listen to others’ suggestions, and improve your way of speaking</strong></p>
-]]></content>
   </entry>
 </search>
