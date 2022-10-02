@@ -2591,8 +2591,8 @@ body
 {
     /* --ska: rgb(241, 188, 197);
     --ske: rgb(140, 161, 184); */
-    --ska: #71c9ce;
-    --ske: #3f72af;
+    --ska: #f08a5d;
+    --ske: #ff8c94;
     --font-color: rgb(39, 39, 39) !important;
     --global-bg: rgb(255, 255, 255) !important;
     --card-bg: rgb(255, 255, 255) !important;
@@ -2725,7 +2725,7 @@ div.post-copyright a:hover::before
 body 
 {
     
-    background: url(https://v.bmp.ovh/imgs/2022/10/02/fc99fa56723bc072.jpeg) fixed center center no-repeat !important;
+    background: url(https://v.bmp.ovh/imgs/2022/10/02/6392fd05b2fa313f.jpeg) fixed center center no-repeat !important;
     background-size: cover !important;
 }
 #nav .site-page
