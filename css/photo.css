@@ -364,7 +364,9 @@
 .layout
 {
     backdrop-filter: blur(8px) !important;
-    background-color: rgba(255, 255, 255, 0.899);
+    border-radius: 12px 12px 0 0 !important;
+    border: 1px solid var(--ska);
+    /* background-color: rgba(0, 0, 0, 0.138); */
 
 }
 #post
