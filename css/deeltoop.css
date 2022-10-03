@@ -337,6 +337,10 @@ summary:hover
     padding: 40px 0 0 0;
     color: white;
 }
+#footer
+{
+    background: url(http://api.muvip.cn/api/bing) !important;
+}
 .skft2
 {
     background-color: rgba(0, 0, 0, 0.092);
@@ -707,17 +711,23 @@ article hr
 {
     color: var(--ske)!important;
 }
+#post-comment
+{
+    box-shadow: 0 0 10px rgba(132, 132, 132, 0.182);
+    padding: 30px !important;
+    border-radius: 8px;
+}
 #post .post-copyright
 {
     padding-top: 23px !important;
     border: none !important;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.082);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0);
     border-radius: 14px;
     font-size: 14px !important;
 }
 #post .post-copyright:hover
 {
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.082) !important;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0) !important;
 }
 .gt-container .gt-btn
 {
@@ -957,11 +967,13 @@ header #nav
 }
 blockquote {
     margin: 0 0 0 !important;
-    padding: 12px !important;
-    border: 2px dashed var(--ska) !important;
+    padding: 17px !important;
+    border-left: none;
     background-color: unset !important;
     font-size: 15px;
     position: relative;
+    border: 2px dashed rgba(130, 130, 130, 0.688);
+    border-radius: 14px;
 }
 blockquote em
 {
@@ -969,13 +981,17 @@ blockquote em
     border: 1px solid var(--ske) !important;
     padding: 9px 7px 7px 7px;
     line-height: 1em;
-    color: white !important;
+    color: var(--ske) !important;
     background-color: var(--card-bg);
     border-radius: 0 8px 8px 8px;
     position: absolute;
     bottom: -15px;
     right: -20px;
     font-size: 14px;
+}
+blockquote em::before
+{
+    content: '来自 ';
 }
 #article-container .inline-img
 {
@@ -1570,7 +1586,7 @@ article p sup
     width: 150px !important;
     transition-duration: 400ms;
     color: white !important;
-    background-color: pink;
+    background-color: #fcc29a;
     font-size: 50% !important;
 }
 .search-dialog .search-nav .search-close-button:hover
@@ -1584,7 +1600,7 @@ article p sup
 }
 #nav #site-name
 {
-    color: pink !important;
+    color: #fcc29a !important;
     font-size: 23px !important;
     font-weight: unset !important;
 }
@@ -2597,8 +2613,8 @@ blockquote
 {
     /* --ska: rgb(241, 188, 197);
     --ske: rgb(140, 161, 184); */
-    --ska: #abedd8;
-    --ske: #46cdcf;
+    --ska: #29d2e4;
+    --ske: #13829b;
     --font-color: rgb(39, 39, 39) !important;
     --global-bg: rgb(255, 255, 255) !important;
     --card-bg: rgb(255, 255, 255) !important;
@@ -2667,7 +2683,10 @@ blockquote
     width: 30%;
     left: 35%;
 }
-
+#post-comment .comment-head .comment-headline::after
+{
+    content: '（需要登录）';
+}
 
 
 
@@ -2726,7 +2745,7 @@ div.post-copyright a:hover::before
 
 
 
-
+/* 
 
 body 
 {
@@ -2889,3 +2908,7 @@ blockquote em
 {
     color: white !important;
 }
+blockquote > p
+{
+    color: white !important;
+} */
