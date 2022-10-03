@@ -361,6 +361,10 @@
     top: 0;
     left: 0;
 }
+#footer
+{
+    backdrop-filter: blur(4px);
+}
 .layout
 {
     backdrop-filter: blur(8px) !important;

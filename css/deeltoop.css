@@ -1259,8 +1259,8 @@ blockquote > :last-child:after
 }
 #page-header.nav-fixed #nav
 {
-    background-color: rgba(0, 0, 0, 0.182);
-    backdrop-filter: blur(20px);
+    background-color: rgb(255, 255, 255);
+    backdrop-filter: blur(0px);
 }
 #page-header.nav-fixed #nav::after
 {
@@ -2564,6 +2564,12 @@ body
     transition-duration: 300ms;
 
 }
+blockquote
+{
+    width: 70%;
+    margin-left: 15% !important;
+    text-align: center;
+}
 /* #post-info #post-meta
 {
     position: absolute !important;
@@ -2591,8 +2597,8 @@ body
 {
     /* --ska: rgb(241, 188, 197);
     --ske: rgb(140, 161, 184); */
-    --ska: #f08a5d;
-    --ske: #ff8c94;
+    --ska: #abedd8;
+    --ske: #46cdcf;
     --font-color: rgb(39, 39, 39) !important;
     --global-bg: rgb(255, 255, 255) !important;
     --card-bg: rgb(255, 255, 255) !important;
@@ -2725,12 +2731,8 @@ div.post-copyright a:hover::before
 body 
 {
     
-    background: url(https://v.bmp.ovh/imgs/2022/10/02/6392fd05b2fa313f.jpeg) fixed center center no-repeat !important;
+    background: url(https://v.bmp.ovh/imgs/2022/10/03/20711ead98de1cce.jpeg) fixed center center no-repeat !important;
     background-size: cover !important;
-}
-#nav .site-page
-{
-    color: rgba(255, 255, 255, 0.902) !important;
 }
 .layout
 {
@@ -2743,6 +2745,19 @@ body
 {
     display: none !important;
 }
+#nav #toggle-menu
+{
+    background-color: rgba(0, 0, 0, 0.217);
+}
+#aside-content #card-toc .toc-percentage
+{
+    color: var(--ska)
+}
+#page-header.nav-fixed #nav
+{
+    background-color: rgba(0, 0, 0, 0.094);
+    backdrop-filter: blur(20px);
+}
 #page
 {
     background-color: unset !important;
@@ -2752,7 +2767,7 @@ body
 .cardHover, .error404 #error-wrap .error-content, .layout > div:first-child:not(.recent-posts), #recent-posts > .recent-post-item, #aside-content .card-widget, .layout > .recent-posts .pagination > *:not(.space)
 {
     background-color: unset !important;
-    color: rgba(255, 255, 255, 0.798) !important;
+    color: rgba(255, 255, 255, 0.955) !important;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-title
 {
@@ -2765,7 +2780,7 @@ body
 :root
 {
     --text-highlight-color: rgb(255, 255, 255) !important;
-    --font-color: rgb(223, 223, 223) !important;
+    --font-color: rgb(247, 253, 255) !important;
     --card-bg: rgb(0, 0, 0) !important;
     --global-bg: rgb(0, 0, 0) !important;
 }
@@ -2831,13 +2846,12 @@ body
 }
 #sidebar #sidebar-menus.open
 {
-    background-color: rgba(0, 0, 0, 0.106);
-    backdrop-filter: blur(14px);
+    background-color: rgba(0, 0, 0, 0.621);
+    backdrop-filter: blur(4px);
 }
 #nav .menus_items .menus_item .menus_item_child
 {
-    background-color: unset !important;
-    border: 2px dashed var(--ske);
+    background-color: rgba(0, 0, 0, 0.479)  !important;
 }
 #recent-posts > .recent-post-item:first-child >.recent-post-info > .article-title
 {
@@ -2854,13 +2868,24 @@ body
 blockquote em
 {
     background-color: var(--ske);
-    color: white;
 }
 .img-alt
 {
     color: white !important;
 }
 #aside-content #card-toc .toc-content .toc-link
+{
+    color: white !important;
+}
+#page-header.full_page
+{
+    background: unset !important;
+}
+#page-header:not(.not-top-img):before
+{
+    display: none;
+}
+.card-tag-cloud *
 {
     color: white !important;
 }
