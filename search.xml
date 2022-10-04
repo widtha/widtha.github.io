@@ -16,7 +16,7 @@
 ]]></content>
   </entry>
   <entry>
-    <title>10月摘抄1</title>
+    <title>Excerpt from October / 十月的摘抄</title>
     <url>/202210011/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
 <p>别人喜欢完美，不，应该说别人喜欢虚假，不，应该说别人不能接受缺陷。包括我们自己在内，我们纵然知道完美这个东西是不存在的，也知道别人的完美都是装出来的，但是我们就是喜欢这样，就是喜欢这种自欺欺人的感觉，因为人都是活在自己的世界里的。就是追星一样，都知道自己不可能和明星在一起，但是多少人做梦都在和自己的偶像约会。</p>
@@ -43,12 +43,12 @@
       </categories>
       <tags>
         <tag>云</tag>
-        <tag>小路</tag>
-        <tag>人</tag>
+        <tag>秋</tag>
         <tag>树</tag>
         <tag>建筑</tag>
-        <tag>秋</tag>
+        <tag>人</tag>
         <tag>水</tag>
+        <tag>小路</tag>
         <tag>阳光</tag>
       </tags>
   </entry>
@@ -65,10 +65,10 @@
         <category>相册</category>
       </categories>
       <tags>
-        <tag>田野</tag>
         <tag>云</tag>
-        <tag>小路</tag>
         <tag>人</tag>
+        <tag>小路</tag>
+        <tag>田野</tag>
       </tags>
   </entry>
   <entry>
@@ -298,6 +298,9 @@
       <categories>
         <category>相册</category>
       </categories>
+      <tags>
+        <tag>我的世界</tag>
+      </tags>
   </entry>
   <entry>
     <title>Minecraft / EC密室杀手:皮肤全是史蒂夫</title>
@@ -306,5 +309,8 @@
       <categories>
         <category>相册</category>
       </categories>
+      <tags>
+        <tag>我的世界</tag>
+      </tags>
   </entry>
 </search>

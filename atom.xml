@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>10月摘抄1</title>
+    <title>Excerpt from October / 十月的摘抄</title>
     <link href="http://kuanre.github.io/202210011/"/>
     <id>http://kuanre.github.io/202210011/</id>
     <published>2022-10-01T16:00:00.000Z</published>
@@ -59,17 +59,17 @@
     
     <category term="云" scheme="http://kuanre.github.io/tags/%E4%BA%91/"/>
     
-    <category term="小路" scheme="http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/"/>
-    
-    <category term="人" scheme="http://kuanre.github.io/tags/%E4%BA%BA/"/>
+    <category term="秋" scheme="http://kuanre.github.io/tags/%E7%A7%8B/"/>
     
     <category term="树" scheme="http://kuanre.github.io/tags/%E6%A0%91/"/>
     
     <category term="建筑" scheme="http://kuanre.github.io/tags/%E5%BB%BA%E7%AD%91/"/>
     
-    <category term="秋" scheme="http://kuanre.github.io/tags/%E7%A7%8B/"/>
+    <category term="人" scheme="http://kuanre.github.io/tags/%E4%BA%BA/"/>
     
     <category term="水" scheme="http://kuanre.github.io/tags/%E6%B0%B4/"/>
+    
+    <category term="小路" scheme="http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/"/>
     
     <category term="阳光" scheme="http://kuanre.github.io/tags/%E9%98%B3%E5%85%89/"/>
     
@@ -95,13 +95,13 @@
     <category term="相册" scheme="http://kuanre.github.io/categories/%E7%9B%B8%E5%86%8C/"/>
     
     
-    <category term="田野" scheme="http://kuanre.github.io/tags/%E7%94%B0%E9%87%8E/"/>
-    
     <category term="云" scheme="http://kuanre.github.io/tags/%E4%BA%91/"/>
+    
+    <category term="人" scheme="http://kuanre.github.io/tags/%E4%BA%BA/"/>
     
     <category term="小路" scheme="http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/"/>
     
-    <category term="人" scheme="http://kuanre.github.io/tags/%E4%BA%BA/"/>
+    <category term="田野" scheme="http://kuanre.github.io/tags/%E7%94%B0%E9%87%8E/"/>
     
   </entry>
   
@@ -220,6 +220,8 @@
     <category term="相册" scheme="http://kuanre.github.io/categories/%E7%9B%B8%E5%86%8C/"/>
     
     
+    <category term="我的世界" scheme="http://kuanre.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
   </entry>
   
   <entry>
@@ -241,6 +243,8 @@
     
     <category term="相册" scheme="http://kuanre.github.io/categories/%E7%9B%B8%E5%86%8C/"/>
     
+    
+    <category term="我的世界" scheme="http://kuanre.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
