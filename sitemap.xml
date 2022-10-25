@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kuanre.github.io/202210011/</loc>
+    <loc>http://kuanre.github.io/not/index.html</loc>
     
-    <lastmod>2022-10-01</lastmod>
+    <lastmod>2022-10-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,24 +47,6 @@
   </url>
   
   <url>
-    <loc>http://kuanre.github.io/202208241/</loc>
-    
-    <lastmod>2022-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/not/index.html</loc>
-    
-    <lastmod>2022-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kuanre.github.io/link/index.html</loc>
     
     <lastmod>2022-08-22</lastmod>
@@ -101,9 +83,9 @@
   </url>
   
   <url>
-    <loc>http://kuanre.github.io/202208082/</loc>
+    <loc>http://kuanre.github.io/202210251/</loc>
     
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2022-07-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -128,15 +110,6 @@
   </url>
   
   <url>
-    <loc>http://kuanre.github.io/202203211/</loc>
-    
-    <lastmod>2022-03-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kuanre.github.io/202203201/</loc>
     
     <lastmod>2022-03-19</lastmod>
@@ -148,7 +121,7 @@
 
   <url>
     <loc>http://kuanre.github.io/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,84 +129,63 @@
   
   <url>
     <loc>http://kuanre.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kuanre.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E4%BA%91/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E7%A7%8B/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E6%A0%91/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E5%BB%BA%E7%AD%91/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E4%BA%BA/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E6%B0%B4/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E9%98%B3%E5%85%89/</loc>
-    <lastmod>2022-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuanre.github.io/tags/%E5%AE%9E%E8%B7%B5%E6%B4%BB%E5%8A%A8/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kuanre.github.io/tags/%E7%94%B0%E9%87%8E/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kuanre.github.io/tags/%E4%BA%91/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kuanre.github.io/tags/%E5%B0%8F%E8%B7%AF/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kuanre.github.io/tags/%E4%BA%BA/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kuanre.github.io/tags/%E5%AE%9E%E8%B7%B5%E6%B4%BB%E5%8A%A8/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kuanre.github.io/tags/%E6%A0%91/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kuanre.github.io/tags/%E5%BB%BA%E7%AD%91/</loc>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -242,21 +194,21 @@
   
   <url>
     <loc>http://kuanre.github.io/categories/%E7%9B%B8%E5%86%8C/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kuanre.github.io/categories/%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kuanre.github.io/categories/%E8%AF%84%E8%AE%BA/</loc>
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

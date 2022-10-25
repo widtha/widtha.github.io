@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://kuanre.github.io/202210011/</loc>
-    <lastmod>2022-10-01</lastmod>
-  </url>
-  <url>
     <loc>http://kuanre.github.io/1/index.html</loc>
     <lastmod>2022-08-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kuanre.github.io/202208241/</loc>
-    <lastmod>2022-08-23</lastmod>
   </url>
   <url>
     <loc>http://kuanre.github.io/202202131/</loc>
@@ -25,8 +17,8 @@
     <lastmod>2022-08-10</lastmod>
   </url>
   <url>
-    <loc>http://kuanre.github.io/202208082/</loc>
-    <lastmod>2022-08-10</lastmod>
+    <loc>http://kuanre.github.io/202210251/</loc>
+    <lastmod>2022-07-01</lastmod>
   </url>
   <url>
     <loc>http://kuanre.github.io/202208231/</loc>
@@ -35,10 +27,6 @@
   <url>
     <loc>http://kuanre.github.io/202206232/</loc>
     <lastmod>2022-06-22</lastmod>
-  </url>
-  <url>
-    <loc>http://kuanre.github.io/202203211/</loc>
-    <lastmod>2022-03-20</lastmod>
   </url>
   <url>
     <loc>http://kuanre.github.io/202203201/</loc>
