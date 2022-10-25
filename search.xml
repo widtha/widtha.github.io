@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于</title>
+    <url>/202202131/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我们介绍了 animation-timing-function 以及它的一些预设值，这些值定义了不同时间内的动画速度。 除了预定义值之外，CSS 还提供了贝塞尔曲线（Bezier curves）来更细致地控制动画的速度曲线。</p>
+<p>在 CSS 动画里，我们可以用 cubic-bezier 来定义贝塞尔曲线。 曲线的形状代表了动画的速度。 曲线在 1 * 1 的坐标系统内， 其中 X 轴代表动画的时间间隔（类似于时间比例尺），Y 轴代表动画的改变。</p>
+<p>cubic-bezier 函数包含了 1 * 1 网格里的4个点：p0、p1、p2、p3。 其中 p0 和 p3 是固定值，代表曲线的起始点和结束点，坐标值依次为 (0, 0) 和 (1, 1)。 你只需设置另外两点的 x 值和 y 值，设置的这两点确定了曲线的形状从而确定了动画的速度曲线。 在 CSS 里面通过 (x1, y1, x2, y2) 来确定 p1 和 p2。 以下就是 CSS 贝塞尔曲线的例子：</p>
+<p><img src="https://v.bmp.ovh/imgs/2022/10/02/e94fd984e5c65f49.jpeg" alt="什么人，1988-9-23，在干什么护国军海军和改革共和国海军"></p>
+<p>在上面的例子里，两个点的 x 和 y 值相等（x1 = 0.25 = y1 和 x2 = 0.75 = y2）。如果你还记得几何课的知识，结果是从原点到点 (1, 1) 的一条直线。 元素在动画中的速度呈线性，效果和使用 linear 关键词的效果一致。 换言之，元素匀速运动。</p>
+<blockquote>
+<p>元素在动画中的速度呈线性，效果和使用 linear 关键词的效果一致。</p>
+<p><em>什么人，2022-9-9，在干什么</em></p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
     <title>Minecraft / EC密室杀手:皮肤全是史蒂夫</title>
     <url>/202203201/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe width="720" height="405" frameborder="0" src="https://www.ixigua.com/iframe/6941727694514192910?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>]]></content>
@@ -21,25 +35,6 @@
       </categories>
       <tags>
         <tag>毕业</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>田野与云</title>
-    <url>/202208161/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
-<style>:root{--ska: lightgreen;}</style>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/16/7366f92c45ab839e.jpg" alt=""></p>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/16/1fd87a6839e22e10.jpg" alt=""></p>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/16/c973f0a1b739c9be.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>相册</category>
-      </categories>
-      <tags>
-        <tag>田野</tag>
-        <tag>云</tag>
-        <tag>小路</tag>
-        <tag>人</tag>
       </tags>
   </entry>
   <entry>
@@ -149,6 +144,21 @@
       </tags>
   </entry>
   <entry>
+    <title>七月的树</title>
+    <url>/202208231/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
+<style>:root{--ska: darksalmon;}</style>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/23/8cc31fc744fc7399.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>相册</category>
+      </categories>
+      <tags>
+        <tag>树</tag>
+        <tag>建筑</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>雪崩前的十一片雪花：悲剧</title>
     <url>/202210251/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>10月23号晚上，正是学校放假的前一天，我躺在床上，难以入睡。想到一天的事，还有那被班主任没收的，不属于我的魔方。我带着情绪梳理了一天的烂事，尽管现在我已经毫无感觉。</p>
@@ -177,7 +187,7 @@
 <p>后来在毛毛虫比赛前，我问他此事。他说这点小事<strong>你都记得啊</strong>，在我来不及开口时，他又<strong>喊</strong>了一遍。</p>
 <p>后来我知道这个相机并不是他的，就不再过问了。</p>
 <h3 id="理所应当">理所应当</h3>
-<p>中午打饭对很长，<strong>语文老师</strong>站在我的后面，她和我前面的一个同学说话，不知什么时候就到我前面去了。我问他，您打两个肉要多少钱？她<strong>愣了一下</strong>，说，15。</p>
+<p>中午打饭队很长，<strong>语文老师</strong>站在我的后面，她和我前面的一个同学说话，不知什么时候就到我前面去了。我问他，您打两个肉要多少钱？她<strong>愣了一下</strong>，说，15。</p>
 <p>后来我也拿了2个肉，我付了 15，她付了 12。</p>
 <h3 id="晚饭时">晚饭时</h3>
 <p>我打完了饭，拿上一碗粥，往班级坐区走去。</p>
@@ -204,32 +214,22 @@
       </tags>
   </entry>
   <entry>
-    <title>七月的树</title>
-    <url>/202208231/</url>
+    <title>田野与云</title>
+    <url>/202208161/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/photo.css">
-<style>:root{--ska: darksalmon;}</style>
-<p><img src="https://v.bmp.ovh/imgs/2022/08/23/8cc31fc744fc7399.jpg" alt=""></p>
+<style>:root{--ska: lightgreen;}</style>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/16/7366f92c45ab839e.jpg" alt=""></p>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/16/1fd87a6839e22e10.jpg" alt=""></p>
+<p><img src="https://v.bmp.ovh/imgs/2022/08/16/c973f0a1b739c9be.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>相册</category>
       </categories>
       <tags>
-        <tag>树</tag>
-        <tag>建筑</tag>
+        <tag>人</tag>
+        <tag>田野</tag>
+        <tag>云</tag>
+        <tag>小路</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>关于</title>
-    <url>/202202131/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我们介绍了 animation-timing-function 以及它的一些预设值，这些值定义了不同时间内的动画速度。 除了预定义值之外，CSS 还提供了贝塞尔曲线（Bezier curves）来更细致地控制动画的速度曲线。</p>
-<p>在 CSS 动画里，我们可以用 cubic-bezier 来定义贝塞尔曲线。 曲线的形状代表了动画的速度。 曲线在 1 * 1 的坐标系统内， 其中 X 轴代表动画的时间间隔（类似于时间比例尺），Y 轴代表动画的改变。</p>
-<p>cubic-bezier 函数包含了 1 * 1 网格里的4个点：p0、p1、p2、p3。 其中 p0 和 p3 是固定值，代表曲线的起始点和结束点，坐标值依次为 (0, 0) 和 (1, 1)。 你只需设置另外两点的 x 值和 y 值，设置的这两点确定了曲线的形状从而确定了动画的速度曲线。 在 CSS 里面通过 (x1, y1, x2, y2) 来确定 p1 和 p2。 以下就是 CSS 贝塞尔曲线的例子：</p>
-<p><img src="https://v.bmp.ovh/imgs/2022/10/02/e94fd984e5c65f49.jpeg" alt="什么人，1988-9-23，在干什么护国军海军和改革共和国海军"></p>
-<p>在上面的例子里，两个点的 x 和 y 值相等（x1 = 0.25 = y1 和 x2 = 0.75 = y2）。如果你还记得几何课的知识，结果是从原点到点 (1, 1) 的一条直线。 元素在动画中的速度呈线性，效果和使用 linear 关键词的效果一致。 换言之，元素匀速运动。</p>
-<blockquote>
-<p>元素在动画中的速度呈线性，效果和使用 linear 关键词的效果一致。</p>
-<p><em>什么人，2022-9-9，在干什么</em></p>
-</blockquote>
-]]></content>
   </entry>
 </search>
