@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://kuanre.github.io/202211061/</loc>
+    <lastmod>2022-11-05</lastmod>
+  </url>
+  <url>
+    <loc>http://kuanre.github.io/202210251/</loc>
+    <lastmod>2022-10-24</lastmod>
+  </url>
+  <url>
     <loc>http://kuanre.github.io/1/index.html</loc>
     <lastmod>2022-08-26</lastmod>
   </url>
@@ -22,10 +30,6 @@
   </url>
   <url>
     <loc>http://kuanre.github.io/202208231/</loc>
-    <lastmod>2022-07-01</lastmod>
-  </url>
-  <url>
-    <loc>http://kuanre.github.io/202210251/</loc>
     <lastmod>2022-07-01</lastmod>
   </url>
   <url>
