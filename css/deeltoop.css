@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
 
 #sidebar #sidebar-menus .menus_items .site-page
 {
@@ -19,10 +19,6 @@ body
 #recent-posts > .recent-post-item:first-child >.recent-post-info > .content
 {
     display: inline !important;
-}
-#page-header.nav-fixed #nav
-{
-    box-shadow: none !important;
 }
 #hide-aside-btn
 {
@@ -417,10 +413,10 @@ summary:hover
     background-color: var(--ska);
     opacity: 0.7;
 }
-#sidebar #sidebar-menus .avatar-img
+/* #sidebar #sidebar-menus .avatar-img
 {
     display: none !important;
-}
+} */
 #aside-content .aside-list > .aside-list-item .content > .title, #aside-content .aside-list > .aside-list-item .content > .comment
 {
     font-size: 14px !important;
@@ -486,7 +482,7 @@ summary:hover
 }*/
 .nav-fixed #site-name::after
 {
-    content: '-温暖就是跋山涉水，只为与你把酒祝东风。';
+    content: ' - 拒绝emo！！！';
     font-size: small;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
@@ -744,7 +740,7 @@ article hr
 }
 #post .post-copyright
 {
-    padding-top: 23px !important;
+    padding: 0px !important;
     border: none !important;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0);
     border-radius: 14px;
@@ -761,10 +757,10 @@ article hr
     border-radius: 8px !important;
 }
 
-.post-copyright
+/* .post-copyright
 {
     padding-right: 30px !important;
-}
+} */
 .recent-post-item
 {
     box-shadow:  20px 20px 60px #d9d9d9,
@@ -883,7 +879,7 @@ article hr
 {
     color: var(--ska);
 }
-#article-container img
+article img
 {
     margin-top: 60px !important;
     text-decoration: none;
@@ -1308,6 +1304,23 @@ blockquote > :last-child:after
 {
     color: var(--ske) !important;
 }
+@media (min-width: 600px)
+{
+    #page-header.nav-fixed #nav
+    {
+        width: 86% !important;
+        margin-left: 7% !important;
+        border-radius: 0 0 14px 14px !important;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.104) !important;
+    }
+    #nav #toggle-menu::after
+    {
+        content: '导航';
+        font-size: 0.78em !important;
+        cursor: pointer;
+    }
+
+}
 #page-header.nav-fixed #nav
 {
     background-color: rgb(255, 255, 255);
@@ -1321,14 +1334,14 @@ blockquote > :last-child:after
 {
     color: var(--ske) !important;
 }
-#page-header.nav-fixed #nav a, #page-header.nav-fixed #nav #site-name, #page-header.nav-fixed #nav #toggle-menu 
+/* #page-header.nav-fixed #nav a, #page-header.nav-fixed #nav #site-name, #page-header.nav-fixed #nav #toggle-menu 
 {
     color: var(--ske);
 }
 #page-header.nav-fixed #nav a, #page-header.nav-fixed #nav #site-name, #page-header.nav-fixed #nav #toggle-menu:hover
 {
     color: var(--ska);
-}
+} */
 .article-sort-item-title:hover
 {
     color: var(--ska) !important;
@@ -1345,7 +1358,7 @@ blockquote > :last-child:after
 }
 #post .post-copyright:before {
     position: absolute !important;
-    top: -10px ;
+    bottom: -10px ;
     right: 10px !important;
     opacity: 0.3;
     font-size: 8em !important;
@@ -1513,7 +1526,7 @@ article iframe
 {
     color: var(--ske);
 }
-#nav #toggle-menu
+/* #nav #toggle-menu
 {
     position: fixed !important;
     right: 10px;
@@ -1527,7 +1540,7 @@ article iframe
     transition-duration: 300ms;
     cursor: pointer !important;
     transform: scale(0.9);
-}
+} */
 #nav #toggle-menu:hover
 {
     filter: brightness(0.9);
@@ -2087,8 +2100,8 @@ article p sup
 }
 .article-sort-item
 {
-    margin-bottom: 0 !important;
-    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
 }
 #recent-posts > .recent-post-item img:hover
 {
@@ -2653,8 +2666,8 @@ body
 {
     /* --ska: rgb(241, 188, 197);
     --ske: rgb(140, 161, 184); */
-    --ska: #29d2e4;
-    --ske: #13829b;
+    --ska: #db8449;
+    --ske: #a1a46d;
     --font-color: rgb(39, 39, 39) !important;
     --global-bg: rgb(255, 255, 255) !important;
     --card-bg: rgb(255, 255, 255) !important;
@@ -2727,11 +2740,17 @@ body
 {
     content: '（需要登录）';
 }
-
-
-
-
-
+.aplayer.aplayer-withlrc .aplayer-pic
+{
+    height: 200px !important;
+    width: 200px !important;
+    border-radius: 10px !important;
+    margin-right: 10px !important;
+}
+#article-container .aplayer
+{
+    box-shadow: none !important;
+}
 
 
 
