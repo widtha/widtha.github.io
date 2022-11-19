@@ -1,9 +1,9 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
 
-#sidebar #sidebar-menus .menus_items .site-page
+
+/* #sidebar #sidebar-menus .menus_items .site-page
 {
     text-align: center;
-}
+} */
 #post-comment + hr
 {
     display: none !important;
@@ -12,17 +12,9 @@ body
 {
     cursor: default;
 }
-#recent-posts > .recent-post-item >.recent-post-info > .content
-{
-    display: none;
-}
 #recent-posts > .recent-post-item:first-child >.recent-post-info > .content
 {
     display: inline !important;
-}
-#hide-aside-btn
-{
-    display: none !important;
 }
 .card-widget.card-recent-post
 {
@@ -480,6 +472,10 @@ summary:hover
     
     opacity: 0.82;
 }*/
+#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:hover, #aside-content .card-categories ul.card-category-list > .card-category-list-item a:hover
+{
+    background-color: rgba(120, 120, 120, 0.082);
+}
 .nav-fixed #site-name::after
 {
     content: ' - 拒绝emo！！！';
@@ -885,7 +881,7 @@ article img
     text-decoration: none;
     margin: 0;
     margin-left: 00%;
-    width: 90%;
+    width: 100%;
     border-radius: 0px;
     /* box-shadow: 0 7px 15px rgba(0, 0, 0, 0.093); */
     border: 0px solid rgba(130, 130, 130, 0.13);
@@ -1308,17 +1304,21 @@ blockquote > :last-child:after
 {
     #page-header.nav-fixed #nav
     {
-        width: 86% !important;
-        margin-left: 7% !important;
-        border-radius: 0 0 14px 14px !important;
+        width: 96% !important;
+        margin-left: 2% !important;
+        border-radius: 0 0 8px 8px !important;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.104) !important;
     }
-    #nav #toggle-menu::after
+    /* #nav #toggle-menu::after
     {
-        content: '导航';
+        content: ' 导航';
         font-size: 0.78em !important;
         cursor: pointer;
     }
+    #nav #toggle-menu::after:hover 
+    {
+        color: var(--ska) !important;
+    } */
 
 }
 #page-header.nav-fixed #nav
@@ -1643,23 +1643,23 @@ article p sup
 }
 #nav #site-name::before
 {
-    content:'欢迎来到  \D\A宽宽的大路';
-    opacity: 0;
+    content:'欢迎来到  \D\A 宽宽的大路';
     position: absolute;
     left: -10px ;
-    top: -50px;
+    top: -80px;
     padding-top: 23px;
     padding-bottom: 15px;
     text-align: center;
-    border-radius: 4px ;
+    border-radius: 0 0 10px 10px ;
     line-height: 1.3em !important;
 
     display: block !important;
     width: 150px !important;
     transition-duration: 400ms;
     color: white !important;
-    background-color: #fcc29a;
-    font-size: 50% !important;
+    background-color: pink;
+    font-size: 13px;
+    font-weight: bolder;
 }
 .search-dialog .search-nav .search-close-button:hover
 {
@@ -1672,15 +1672,33 @@ article p sup
 }
 #nav #site-name
 {
-    color: #fcc29a !important;
+    color: pink !important;
     font-size: 23px !important;
     font-weight: unset !important;
 }
 
-
-
-
-
+.aplayer.aplayer-fixed .aplayer-body
+{
+    border-radius: 0 4px 0 0 !important;
+}
+.aplayer .aplayer-list
+{
+    border-radius: 0 8px 0 0 !important;
+    box-shadow: 0 0 10px rgba(133, 133, 133, 0.224);
+}
+#post .aplayer.aplayer-info .aplayer-music .aplayer-title
+{
+    font-size: 20px !important;
+}
+#post .aplayer.aplayer-info .aplayer-music
+{
+    height: unset !important;
+    margin-top: 30px !important;
+}
+#post .aplayer.aplayer-info .aplayer-music .aplayer-author
+{
+    font-size: 15px !important;
+}
 .article-sort-item-title:hover
 {
     color: var(--ska) !important;
@@ -2739,11 +2757,12 @@ body
 #post-comment .comment-head .comment-headline::after
 {
     content: '（需要登录）';
+    font-size: 20px;
 }
 .aplayer.aplayer-withlrc .aplayer-pic
 {
-    height: 200px !important;
-    width: 200px !important;
+    height: 150px !important;
+    width: 150px !important;
     border-radius: 10px !important;
     margin-right: 10px !important;
 }
