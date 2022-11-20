@@ -13,6 +13,14 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face 
+{
+    font-family: 'b';
+    src: url("AslinaBold-2.otf");
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+}
 /* @font-face 
 {
     font-family: 'b';
@@ -31,7 +39,7 @@ article *
 } */
 *
 {
-    font-family: 'a';
+    font-family: 'b','a';
 }
 
 

@@ -1635,7 +1635,7 @@ article p sup
 {
     padding-top: 10px;
     display: block;
-    content: '本网站仅记录生活，没有商业用途，如有任何问题请发送邮件至 kuandc@outlook.com 。';
+    content: '';
 }
 .copyright::after
 {
@@ -1643,7 +1643,7 @@ article p sup
 }
 #nav #site-name::before
 {
-    content:'欢迎来到  \D\A 宽宽的大路';
+    content:'欢迎来到  \D\A Widtha';
     position: absolute;
     left: -10px ;
     top: -80px;
